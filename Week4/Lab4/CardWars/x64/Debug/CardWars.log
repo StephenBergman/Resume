@@ -1,0 +1,3 @@
+﻿  WarGame.cpp
+ResultsLibD.lib(ResultsLib.obj) : warning LNK4099: PDB '' was not found with 'ResultsLibD.lib(ResultsLib.obj)' or at ''; linking object as if no debug info
+  CardWars.vcxproj -> C:\Users\Stephen\source\repos\pg2-2406-StephenBergman\Labs\Week4\Lab4\x64\Debug\CardWars.exe
