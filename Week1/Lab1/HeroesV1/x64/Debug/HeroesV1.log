@@ -1,0 +1,12 @@
+﻿  Console.cpp
+  JSONBase.cpp
+  Input.cpp
+  Hero.cpp
+  HeroesDB.cpp
+  HeroesV1.cpp
+C:\Users\Stephen\source\repos\pg2-2406-StephenBergman\Labs\Week1\Lab1\HeroesV1\HeroesV1.cpp(126,106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  JsonNodePrinter.cpp
+  Tester.cpp
+  Generating Code...
+ResultsLibD.lib(ResultsLib.obj) : warning LNK4099: PDB '' was not found with 'ResultsLibD.lib(ResultsLib.obj)' or at ''; linking object as if no debug info
+  HeroesV1.vcxproj -> C:\Users\Stephen\source\repos\pg2-2406-StephenBergman\Labs\Week1\Lab1\x64\Debug\HeroesV1.exe
