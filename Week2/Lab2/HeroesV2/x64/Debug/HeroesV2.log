@@ -1,0 +1,2 @@
+﻿ResultsLibD.lib(ResultsLib.obj) : warning LNK4099: PDB '' was not found with 'ResultsLibD.lib(ResultsLib.obj)' or at ''; linking object as if no debug info
+  HeroesV2.vcxproj -> C:\Users\Stephen\source\repos\pg2-2406-StephenBergman\Labs\Week2\Lab2\x64\Debug\HeroesV2.exe
