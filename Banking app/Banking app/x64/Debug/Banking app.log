@@ -1,0 +1,3 @@
+﻿  Banking app.cpp
+C:\Users\Stephen\source\repos\Banking app\CreditAccount.h(21,28): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Banking app.vcxproj -> C:\Users\Stephen\source\repos\Banking app\x64\Debug\Banking app.exe
